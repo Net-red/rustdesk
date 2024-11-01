@@ -1,4 +1,4 @@
-name: Flutter Tag Build
+name: Flutter Tag Build Linux
 
 on:
   workflow_dispatch:
